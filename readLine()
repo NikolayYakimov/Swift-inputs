@@ -1,0 +1,4 @@
+// If input one Line like "123 456"
+// You can use
+
+let str : String = readLine()!
